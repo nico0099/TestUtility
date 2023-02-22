@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="github-repo" />
+      <option name="name" value="Utility-excel" />
+      <option name="url" value="https://github.com/nico0099/Utility-excel/blob/main" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-repo" />
+      <option name="name" value="maven-repo" />
+      <option name="url" value="file:///C:\Projects\Test\TestUtility/lib" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jitpack.io" />
+      <option name="name" value="jitpack.io" />
+      <option name="url" value="https://jitpack.io" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="github-repo" />
+      <option name="name" value="Utility-Excel" />
+      <option name="url" value="https://github.com/nico0099/Utility-excel.git" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="github-repo" />
+      <option name="name" value="Utility-Excel" />
+      <option name="url" value="https://maven.pkg.github.com/nfranco/Utility-Excel" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="github" />
+      <option name="name" value="Utility-excel" />
+      <option name="url" value="https://github.com/nico0099/Utility-excel" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="local-maven-repo" />
+      <option name="name" value="local-maven-repo" />
+      <option name="url" value="file:///${project.parent.basedir}/local-maven-repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="github" />
+      <option name="name" value="Utility-excel" />
+      <option name="url" value="https://github.com/nico0099/Utility-excel/tree/main" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="local-maven-repo" />
+      <option name="name" value="local-maven-repo" />
+      <option name="url" value="file:///C:\Projects\Test\TestUtility/src/lib/utility-1.0.0.jar" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="github-repo" />
+      <option name="name" value="Utility-excel" />
+      <option name="url" value="https://github.com/nico0099/Utility-excel" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="https://github.com/nico0099" />
+      <option name="name" value="https://github.com/nico0099" />
+      <option name="url" value="https://github.com/nico0099/Utility-excel" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Utility-Excel" />
+      <option name="name" value="Utility-Excel" />
+      <option name="url" value="https://dcmgithub.deloitte.it/nfranco/Utility-Excel" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Utility-excel" />
+      <option name="name" value="Utility-excel" />
+      <option name="url" value="https://github.com/nico0099/Utility-excel/blob/main/target" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Utility-excel.git" />
+      <option name="name" value="Utility-excel.git" />
+      <option name="url" value="http://github.com/nico0099/Utility-excel.git" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Utility-excel" />
+      <option name="name" value="Utility-excel" />
+      <option name="url" value="https://github.com/nico0099/Utility-excel" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="github-repo" />
+      <option name="name" value="Utility-Excel" />
+      <option name="url" value="https://dcmgithub.deloitte.it/nfranco/Utility" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="github-repo" />
+      <option name="name" value="Utility-Excel" />
+      <option name="url" value="https://dcmgithub.deloitte.it/nfranco/Utility-Excel/target" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="C:\Projects\Test\TestUtility/lib" />
+      <option name="name" value="C:\Projects\Test\TestUtility/lib" />
+      <option name="url" value="file:///C:\Projects\Test\TestUtility/lib" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="github-repo" />
+      <option name="name" value="Utility-Excel" />
+      <option name="url" value="https://dcmgithub.deloitte.it/nfranco/Utility-Excel" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-apache" />
+      <option name="name" value="maven-apache" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="local-maven-repo" />
+      <option name="name" value="local-maven-repo" />
+      <option name="url" value="file:///C:\Projects\Test\TestUtility/src/main/lib/utility-1.0.0.jar" />
+    </remote-repository>
+  </component>
+</project>
